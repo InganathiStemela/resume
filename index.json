@@ -1,0 +1,26 @@
+{
+    "resume": {
+        "educations": [
+          {
+            "degree": "Grade 12",
+            "institution": "Sinenjongo High School",
+            "description": "Maths&Physics",
+            "date": "2017 - 2021"
+          },
+          {
+            "degree": "Web Development",
+            "institution": "Life Choices Academy",
+            "description": "Coding",
+            "date": "2023 - present"
+          }
+        ],
+        
+        "skills": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "Vue.js"
+        ]
+      }
+
+}
